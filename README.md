@@ -2,7 +2,7 @@
   
   Opa!!! sou o Arthur Kinderman
 
-- 🌱Estou estudando C/C++,HTML,JS,CSS,Java.
+- 🌱Estudante na área de tecnologia, HTML,JS,CSS,Java, ReactJS, TS, MongoDB, PHP, kotlin, MySql.
 
 <div>
   <a href="https://github.com/arthurkinderman">
