@@ -3,6 +3,10 @@
   Opa!!! sou o Arthur Kinderman
 
 - 🌱Estudante na área de tecnologia, HTML,JS,CSS,Java, ReactJS, TS, MongoDB, PHP, kotlin, MySql.
+<div align="center">
+  <a href="https://github.com/ArthurKinderman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKinderman&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
   
